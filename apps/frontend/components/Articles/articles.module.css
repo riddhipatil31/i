@@ -1,0 +1,22 @@
+.title {
+  text-align: center;
+}
+
+.ul {
+  padding: 0;
+}
+
+.section {
+  margin: 8px;
+}
+
+.articlesGrid {
+  display: flex;
+  margin-left: -24px; /* gutter size offset */
+  width: auto;
+}
+
+.articlesColumn {
+  padding-left: 24px; /* gutter size */
+  background-clip: padding-box;
+}
